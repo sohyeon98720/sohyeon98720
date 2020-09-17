@@ -6,6 +6,8 @@
 	
   </div>
   
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+  
 [![sohyeon98720's github stats](https://github-readme-stats.vercel.app/api?username=sohyeon98720)](https://github.com/anuraghazra/github-readme-stats)
 
 
