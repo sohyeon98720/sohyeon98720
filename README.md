@@ -7,8 +7,8 @@
 ![GitHub followers](https://img.shields.io/github/followers/sohyeon98720?style=flat)
 
 ### contact
- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=round-square&logo=Gmail&logoColor=white&link=mailto:rlathgus9872@gmail.com)](mailto:rlathgus9872@gmail.com)
-
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=round-square&logo=Gmail&logoColor=white&link=mailto:rlathgus9872@gmail.com)](mailto:rlathgus9872@gmail.com) <br>
+ [![GitHub Badge](https://img.shields.io/badge/Follow-GitHub%20Blog-blue?style=social)](https://sohyeon98720.github.io)
  
 <!--
 **sohyeon98720/sohyeon98720** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
