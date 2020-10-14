@@ -4,6 +4,8 @@
 ![GitHub followers](https://img.shields.io/github/followers/sohyeon98720?style=flat)
 
 ### contact / follow / portfolio
+`still working on it :)`
+
  [![Gmail Badge](https://img.shields.io/badge/contact-Gmail-d14836?style=social&link=mailto:rlathgus9872@gmail.com)](mailto:rlathgus9872@gmail.com)
  [![GitHub Badge](https://img.shields.io/badge/Follow-GitHub%20Blog-blue?style=social)](https://sohyeon98720.github.io)
  [![GitHub Badge](https://img.shields.io/badge/My-Portfolio-blue?style=social)](https://sohyeon98720.github.io/portfolio)
